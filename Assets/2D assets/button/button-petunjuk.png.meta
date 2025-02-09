@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fc7635489c44a1f469f13de2b68d2f9c
+guid: 91394ad070241a44e9950c995f9aff1b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7791214535279931073
-    second: Asset 1_0
+      213: -6031639897453303288
+    second: button-petunjuk_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Asset 1_0
+      name: button-petunjuk_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 14401
-        height: 8101
+        width: 1162
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ce68381754ff1c60800000000000000
-      internalID: 7791214535279931073
+      spriteID: 80ae833687f4b4ca0800000000000000
+      internalID: -6031639897453303288
       vertices: []
       indices: 
       edges: []

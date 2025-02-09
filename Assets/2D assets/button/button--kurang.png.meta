@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: dc774e6ae9b483d418bba595052d8d98
+guid: aeae8f65d500f644bb4c20868df2f1cb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1718280270196890679
-    second: BG Welcome dan Petunjuk_0
+      213: -7812484318146660137
+    second: button--kurang_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BG Welcome dan Petunjuk_0
+      name: button--kurang_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 528
-        height: 297
+        width: 770
+        height: 770
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73cd5a94dce88d710800000000000000
-      internalID: 1718280270196890679
+      spriteID: 7d8fe8ba7ea749390800000000000000
+      internalID: -7812484318146660137
       vertices: []
       indices: 
       edges: []

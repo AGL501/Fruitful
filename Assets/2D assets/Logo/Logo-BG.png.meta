@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 34d1f28c90f11164bb786aeff6822718
+guid: 7fe92d444604b4a4cb1ef19121f7f1c6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8155816592904551716
-    second: BG-welcome 1_0
+      213: -1610828806238824603
+    second: Logo-BG_0
+  - first:
+      213: -2649958117467161416
+    second: Logo-BG_1
+  - first:
+      213: 1809487661174562926
+    second: Logo-BG_2
+  - first:
+      213: 8135895012001881643
+    second: Logo-BG_3
+  - first:
+      213: 4956208179656302755
+    second: Logo-BG_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BG-welcome 1_0
+      name: Logo-BG_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 3629
-        height: 2041
+        x: 1048
+        y: 1185
+        width: 496
+        height: 446
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +140,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42dff49daf74f2170800000000000000
-      internalID: 8155816592904551716
+      spriteID: 5671b2a3cbf25a9e0800000000000000
+      internalID: -1610828806238824603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo-BG_1
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1125
+        width: 422
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcf4bad125793bd0800000000000000
+      internalID: -2649958117467161416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo-BG_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 586
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6023c5d0779c1910800000000000000
+      internalID: 1809487661174562926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo-BG_3
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 60
+        width: 463
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e9e38586188e070800000000000000
+      internalID: 8135895012001881643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo-BG_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 427
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0ac4d841df7c440800000000000000
+      internalID: 4956208179656302755
       vertices: []
       indices: 
       edges: []
@@ -138,7 +238,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -147,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Logo-BG_0: -1610828806238824603
+      Logo-BG_1: -2649958117467161416
+      Logo-BG_2: 1809487661174562926
+      Logo-BG_3: 8135895012001881643
+      Logo-BG_4: 4956208179656302755
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
